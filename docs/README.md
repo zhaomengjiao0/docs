@@ -1,4 +1,4 @@
-<!-- ---
+---
 home: true
 # heroImage: /hero.png
 actionText: Get Started →
@@ -11,8 +11,6 @@ features:
 - title: Performant
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: MIT Licensed | Copyright © 2018-present Evan You
---- -->
+---
 
-
-
-# Hello VuePress
+# Hello VuePress 我是READ!
